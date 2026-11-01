@@ -1,0 +1,10 @@
+{
+  "pid": 43700,
+  "nonce": "c94281c2-0610-41ce-b81c-0e34e6f6a1bc",
+  "version": "0.9.7-candidato",
+  "ports": {
+    "client": 8088,
+    "api": 8905,
+    "ws": 8906
+  }
+}
